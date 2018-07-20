@@ -2750,7 +2750,7 @@ body {
         background-color: rgba(206, 27, 40, 0.25); }
     #menu input[type="submit"].primary,
     #menu input[type="reset"].primary,
-    #menu input[type="button"].primary,
+    #menu input[type="button"].primary, 
     #menu button.primary,
     #menu .button.primary {
       box-shadow: none;
