@@ -1793,6 +1793,12 @@ ul.icons {
     .wrapper {
       padding: 2rem 0 0.1rem 0 ; } }
 
+
+/*flag pics*/
+.flag{
+  max-width: 100%;
+    max-height: 100%;
+}
 /* Banner */
 #banner {
   -ms-flex-align: center;
@@ -1817,8 +1823,8 @@ ul.icons {
   background-size: cover;
   border-top: 0;
   display: -ms-flexbox;
-  height: 35rem !important;
-  min-height: 35rem;
+  height: 50rem !important;
+  min-height: 50rem;
   overflow: hidden;
   position: relative;
   text-align: center;
@@ -2057,6 +2063,14 @@ ul.icons {
     opacity: 1; }
 
 /* CTA */
+#cta2{
+  background-image: linear-gradient(rgba(206, 27, 40, 0.25), rgba(206, 27, 40, 0.25)), url(../../images/flood2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+
+}
 #cta {
   background-color: #ce1b28;
   color: rgba(255, 255, 255, 0.75);
